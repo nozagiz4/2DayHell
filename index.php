@@ -127,7 +127,7 @@ box-shadow: 0px 4px 11px 5px rgba(0,0,0,0.29);
                     <a class="nav-link active" style="color: white;" aria-current="page" href="#">ALL PRODUCT</a>
                   </li>
                   <li class="nav-item">
-                    <a href="index2.php" class="nav-link" style="color: white;" >IMAGE</a>
+                    <a href="newyearcollection.php" class="nav-link" style="color: white;" >IMAGE</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle"style="color: white;" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
